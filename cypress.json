@@ -1,0 +1,27 @@
+{
+  "defaultCommandTimeout" :10000,
+
+  "reporter" :"mochawesome",
+
+  "projectId": "2rztsm",
+
+  "env":{
+    "url_prod_Cart": "https://www.wayfair.com/?ft_override_enable_project_mercury_desktop=OFF",
+
+    "url_prod_libraTest": "https://wayfair.com",
+    
+    "url_prod1": "https://www.wayfair.com/?view_as_customer=1",
+
+    "url_prod_libra": "https://www.wayfair.com",
+
+    "url_prod_with_FT": "https://www.wayfair.com/?ft_override_enable_auth_sms_login=ON",
+
+    "url_prod_libraTest_ca": "https://www.wayfair.ca",
+  
+    "url_prod_libraTest_ca_fr":"https://www.wayfair.ca/fr",
+
+    "url_prod_libra_de":"https://www.wayfair.de",
+
+    "url_uk": "https://www.wayfair.co.uk"
+  }
+}
